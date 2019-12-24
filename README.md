@@ -1,2 +1,2 @@
 # graduation_project
-毕业设计总文件
+毕业设计文档
